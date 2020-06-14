@@ -19,4 +19,4 @@ To see if you have any files that have been changed since your last git push and
 # 9 - What does the command 'git add .' do?
 it prepares files you have made changes to to be added to the next git push
 # 10 - What is the command to push your committed changes to your repo on GitHub?
-git push -u origin master
+git push origin master
